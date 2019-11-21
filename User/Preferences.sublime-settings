@@ -1,0 +1,28 @@
+{
+	"caret_style": "blink",
+	"color_scheme": "Packages/Color Scheme - Wallaby/Material-Theme-Palenight.tmTheme",
+	"dictionary": "Packages/Language - English/en_US.dic",
+	"fade_fold_buttons": false,
+	"font_face": "Fira code",
+	"font_size": 11,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
+	"margin": 0,
+	"material_theme_accent_indigo": true,
+	"material_theme_appbar_indigo": true,
+	"material_theme_big_fileicons": true,
+	"material_theme_bold_tab": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_contrast_mode": true,
+	"material_theme_disable_folder_animation": true,
+	"material_theme_small_tab": true,
+	"scroll_speed": 1.3,
+	"theme": "Material-Theme.sublime-theme",
+	"word_wrap": true
+}
